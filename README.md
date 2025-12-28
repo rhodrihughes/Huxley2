@@ -1,3 +1,6 @@
+
+NEW NOTE: THIS VERSION EXPOSES PORT 8080. IN COOLIFY, PORT EXPOSE 8080
+
 # Huxley 2 Community Edition
 
 A cross-platform JSON proxy for the GB railway Live Departure Boards SOAP API
